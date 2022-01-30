@@ -13,3 +13,5 @@
 +숫자와 위치가 전부 틀리면 아웃
 3. 위 규칙대로 플레이어는 각자리의 숫자와 위치를 맞추면 되는 게임
 
+<img width="272" alt="스크린샷 2022-01-31 오전 12 15 45" src="https://user-images.githubusercontent.com/66238470/151705588-2bcc8b9d-0186-4fa3-9055-c7f2755f7e1d.png">
+<img width="264" alt="스크린샷 2022-01-31 오전 12 09 30" src="https://user-images.githubusercontent.com/66238470/151705589-04960e87-dbfa-4c16-aa5b-a76271cfdf5c.png">
