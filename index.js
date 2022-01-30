@@ -63,7 +63,7 @@ input을 하나씩 쪼개서 배열에 넣어줌
         let sum = 0;
     
         for(let i = 0; i < arr.length ; i++){
-            if(answer[i] === arr[i]){s
+            if(answer[i] === arr[i]){
                 sum++
             }
         }
